@@ -1,0 +1,20 @@
+{
+  "name": "arbitrum-proxies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@openzeppelin/contracts": "^4.2.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.1",
+    "fs-extra": "^10.0.0",
+    "hardhat": "^2.5.0"
+  }
+}
